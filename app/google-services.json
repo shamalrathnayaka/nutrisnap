@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "23549608705",
+    "firebase_url": "https://nutrisnap-api.firebaseio.com",
+    "project_id": "nutrisnap-api",
+    "storage_bucket": "nutrisnap-api.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23549608705:android:4787dcd3ecb2fd85f0d100",
+        "android_client_info": {
+          "package_name": "au.com.shamal.nutrisnap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23549608705-kmc30d682o1kd5absklvh6qlc02dlsu2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "au.com.shamal.nutrisnap",
+            "certificate_hash": "8c4a91ebdf226d22948062fc8d76262951580fe7"
+          }
+        },
+        {
+          "client_id": "23549608705-psvihdp4gpfaugpkaonk8pn2r199ec7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1Qsgsag47yj7CxtWZaECL_mI-S05Stcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23549608705-psvihdp4gpfaugpkaonk8pn2r199ec7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
